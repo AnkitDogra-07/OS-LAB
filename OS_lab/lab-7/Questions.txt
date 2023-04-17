@@ -1,0 +1,6 @@
+LAB-07
+Q1: Write a C Program to implement Priority Scheduling assuming non pre-emptive processes and same arrival time for all processes and 
+calculate average waiting time and average turn around time.
+
+Q2: Write a C Program to implement Priority Scheduling assuming pre-emptive processes with different arrival times for all processes and 
+calculate average waiting time and average turn around time.
